@@ -1,0 +1,11 @@
+{
+  "name": "sqs-serverless-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplatecode",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tbj.name@gmail.com",
+  "license": "ISC"
+}
